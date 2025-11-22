@@ -54,9 +54,7 @@ Parameters:
 - `"P2"` - Second player name
 
 
-## Implementation Notes
-
-### Deviations from Architecture Notes
+## Deviations from Architecture Notes
 
 While the implementation follows the provided architecture closely, a couple practical adjustments were made:
 
