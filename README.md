@@ -6,13 +6,6 @@ A Java implementation of [Chomp Game](https://www.math.ucla.edu/~tom/Games/chomp
 
 Chomp is a two-player strategy game played on a rectangular grid representing a chocolate bar. Players take turns selecting a square to "chomp." When a square is selected, that square and all squares to the right and above it are eaten. The bottom-left square is poisoned - the player forced to eat it loses the game.
 
-**Game Rules:**
-- Players alternate turns selecting available chocolate squares
-- Selecting a square eats that square plus all squares to its right and above
-- The bottom-left square (0,0) is the poison square
-- The player who eats the poison square loses
-- The other player wins
-
 ## Project Structure
 ```
 📦 
