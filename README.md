@@ -1,6 +1,6 @@
 # Chomp Game
 
-A Java implementation of [Chomp Game](https://www.math.ucla.edu/~tom/Games/chomp.html) using a randomly assigned Class Diagram that contains guidance for the architecture implemented in this submission. You can find the mentioned Class Diagram and Architecture Guide [here](https://github.com/cherryyypham/src/main/resources/ClassDiagram-assigned.pdf).
+A Java implementation of [Chomp Game](https://www.math.ucla.edu/~tom/Games/chomp.html) using a randomly assigned Class Diagram that contains guidance for the architecture implemented in this submission. You can find the mentioned Class Diagram and Architecture Guide [here](https://github.com/cherryyypham/PDP-Chomp-ClassDiagram/blob/main/src/main/resources/ClassDiagram-assigned.pdf).
 
 ## About Chomp
 
